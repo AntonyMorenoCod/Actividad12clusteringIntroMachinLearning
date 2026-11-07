@@ -1,4 +1,4 @@
-# Actividad 12 — Clustering
+# Actividad semana 11
 
 Trabajo académico de Introducción al Machine Learning sobre tres métodos de agrupamiento no supervisado: K-Means, DBSCAN y clustering jerárquico aglomerativo.
 
